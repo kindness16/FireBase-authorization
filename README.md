@@ -1,4 +1,4 @@
-# firebase-authorization
+# firebase-authorization firebase
 
 ## Project setup
 ```
